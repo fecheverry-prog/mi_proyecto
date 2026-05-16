@@ -5,3 +5,21 @@ def filtrar_pares(lista):
         if i % 2 == 0:
             pares.append(i)
     return pares
+def lista_al_cuadrado(lista): 
+    '''Recibe una lista y la eleva al cuadrado'''
+    cuadrados = []
+    for i in lista:
+        cuadrados.append(i**2)
+    return cuadrados
+def lista_al_cuadrado(lista): 
+    '''Recibe una lista y la eleva al cuadrado'''
+    cuadrados = []
+    for i in lista:
+        cuadrados.append(i**2)
+    return cuadrados
+def lista_al_cuadrado(lista): 
+    '''Recibe una lista y la eleva al cuadrado'''
+    cuadrados = []
+    for i in lista:
+        cuadrados.append(i**2)
+    return cuadrados
