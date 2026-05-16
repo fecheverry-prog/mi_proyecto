@@ -11,3 +11,9 @@ def lista_al_cuadrado(lista):
     for i in lista:
         cuadrados.append(i**2)
     return cuadrados
+def lista_al_cuadrado(lista): 
+    '''Recibe una lista y la eleva al cuadrado'''
+    cuadrados = []
+    for i in lista:
+        cuadrados.append(i**2)
+    return cuadrados
